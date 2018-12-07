@@ -1,0 +1,12 @@
+
+		xmlPath="//goibibo/path/from";
+		xmlData="//goibibo/data/from";
+		xmlPath1="//goibibo/path/to";
+		xmlData1="//goibibo/data/to";
+		xmlPath2="//goibibo/path/openCalendar";
+		xmlPath3="//goibibo/path/dateSelector";
+		xmlPath4="//goibibo/path/openreturnCalendar";
+		xmlPath5="//goibibo/path/selectReturnDate";
+		xmlPath6="//goibibo/path/Traveller";
+		xmlPath7="//goibibo/path/plus";
+		xmlPath8="//goibibo/path/Cplus";
